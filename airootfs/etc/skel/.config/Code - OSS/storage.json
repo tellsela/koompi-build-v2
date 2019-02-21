@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "8fe29fd927559e97b4985419b9e090ebdc1bf088361bee439cd530f0500f403f",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/koompi"
+        ],
+        "files2": [
+            "file:///usr/share/sddm/themes/breeze/theme.conf",
+            "file:///usr/share/sddm/themes/breeze/Background.qml",
+            "file:///usr/share/doc/HTML/ca/kinfocenter/index.docbook",
+            "file:///usr/share/doc/HTML/ca/kinfocenter/index.cache.bz2",
+            "file:///usr/share/doc/HTML/ca/systemsettings/index.cache.bz2",
+            "file:///usr/lib/os-probes/50mounted-tests",
+            "file:///usr/lib/os-prober/newns"
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/koompi/.config/Code - OSS/Backups/1550638108946",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 24,
+                "width": 1920,
+                "height": 1056
+            }
+        }
+    }
+}

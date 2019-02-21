@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=KOSMOS DE by KOOMPI
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate
+Name=KOSMOS
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=KOSMOS DE by KOOMPI
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=kosmos
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://www.kde.org
+X-Plasma-MainScript=defaults

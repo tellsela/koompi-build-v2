@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-docbook+xml
+Name=index.docbook
+Type=Link
+URL[$e]=file:///usr/share/doc/HTML/ca/kinfocenter/index.docbook
+X-KDE-LastOpenedWith=code-oss

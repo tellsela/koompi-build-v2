@@ -1,0 +1,37 @@
+[2019-02-20 04:43:09.881] [sharedprocess] [info] main {"machineId":"8fe29fd927559e97b4985419b9e090ebdc1bf088361bee439cd530f0500f403f"}
+[2019-02-20 04:43:09.952] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:09.964] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:09.972] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:10.106] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:10.109] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:10.118] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:10.738] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:13.820] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:13.832] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:13.838] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:13.852] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:13.996] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:14.002] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:14.007] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 04:43:40.108] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-02-20 04:43:40.113] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 04:43:41.569] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/ad9aeaaa-b270-4538-acc5-bcaef37fe7df
+[2019-02-20 04:43:41.707] [sharedprocess] [info] Extracted extension to /home/koompi/.vscode-oss/extensions/.zhuangtongfa.material-theme-2.18.2: zhuangtongfa.material-theme
+[2019-02-20 04:43:41.708] [sharedprocess] [info] Renamed to /home/koompi/.vscode-oss/extensions/zhuangtongfa.material-theme-2.18.2
+[2019-02-20 04:43:41.710] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-02-20 04:43:41.714] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-02-20 04:43:49.900] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-20 04:44:02.304] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-02-20 04:44:02.309] [sharedprocess] [info] Scanned user extensions: 1
+[2019-02-20 04:44:04.426] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/fd597b0c-f8d1-4631-adfc-160c67b3d288
+[2019-02-20 04:44:06.518] [sharedprocess] [info] Extracted extension to /home/koompi/.vscode-oss/extensions/.pkief.material-icon-theme-3.6.3: pkief.material-icon-theme
+[2019-02-20 04:44:06.518] [sharedprocess] [info] Renamed to /home/koompi/.vscode-oss/extensions/pkief.material-icon-theme-3.6.3
+[2019-02-20 04:44:06.521] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-02-20 04:44:06.526] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2019-02-20 04:44:18.375] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-02-20 04:44:18.381] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-20 04:44:38.948] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/a7192bf8-eb80-4903-9230-a6111fd1e496
+[2019-02-20 04:44:40.825] [sharedprocess] [info] Extracted extension to /home/koompi/.vscode-oss/extensions/.ms-python.python-2019.1.0: ms-python.python
+[2019-02-20 04:44:40.825] [sharedprocess] [info] Renamed to /home/koompi/.vscode-oss/extensions/ms-python.python-2019.1.0
+[2019-02-20 04:44:40.833] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-02-20 04:44:40.846] [sharedprocess] [info] Extensions installed successfully: ms-python.python

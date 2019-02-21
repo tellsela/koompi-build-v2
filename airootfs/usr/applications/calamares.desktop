@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=KOSMOS Installer
+GenericName=KOSMOS Installer
+Path=
+Exec=/usr/bin/calamares.sh
+Comment=Calamares — System Installer 
+Icon=calamares
+Terminal=false
+Categories=Qt;System;
+X-AppStream-Ignore=true
+X-Desktop-File-Install-Version=0.24

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "calamaresui_autogen"
+  "CMakeFiles/calamaresui_autogen.dir/AutogenOldSettings.txt"
+  "ui_DebugWindow.h"
+  "qrc_libcalamaresui.cpp"
+  "CMakeFiles/calamaresui.dir/modulesystem/CppJobModule.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/Module.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/ModuleManager.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/ProcessJobModule.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/ViewModule.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/CalamaresUtilsGui.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/DebugWindow.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/ImageRegistry.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/qjsonmodel.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/qjsonitem.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/AbstractPage.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/BlankViewStep.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/ViewStep.cpp.o"
+  "CMakeFiles/calamaresui.dir/widgets/ClickableLabel.cpp.o"
+  "CMakeFiles/calamaresui.dir/widgets/FixedAspectRatioLabel.cpp.o"
+  "CMakeFiles/calamaresui.dir/widgets/waitingspinnerwidget.cpp.o"
+  "CMakeFiles/calamaresui.dir/widgets/WaitingWidget.cpp.o"
+  "CMakeFiles/calamaresui.dir/ExecutionViewStep.cpp.o"
+  "CMakeFiles/calamaresui.dir/Branding.cpp.o"
+  "CMakeFiles/calamaresui.dir/ViewManager.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/PythonJobModule.cpp.o"
+  "CMakeFiles/calamaresui.dir/modulesystem/PythonQtViewModule.cpp.o"
+  "CMakeFiles/calamaresui.dir/utils/PythonQtUtils.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/PythonQtJob.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/PythonQtViewStep.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/PythonQtGlobalStorageWrapper.cpp.o"
+  "CMakeFiles/calamaresui.dir/viewpages/PythonQtUtilsWrapper.cpp.o"
+  "CMakeFiles/calamaresui.dir/qrc_libcalamaresui.cpp.o"
+  "CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilation.cpp.o"
+  "../../libcalamaresui.pdb"
+  "../../libcalamaresui.so.3.2.4"
+  "../../libcalamaresui.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/calamaresui.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

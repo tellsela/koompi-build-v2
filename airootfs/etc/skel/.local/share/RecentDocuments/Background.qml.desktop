@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-x-qml
+Name=Background.qml
+Type=Link
+URL[$e]=file:///usr/share/sddm/themes/breeze/Background.qml
+X-KDE-LastOpenedWith=code-oss

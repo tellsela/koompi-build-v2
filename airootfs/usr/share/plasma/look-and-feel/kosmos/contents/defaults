@@ -1,0 +1,23 @@
+[kdeglobals][KDE]
+widgetStyle=kosmos
+
+[kdeglobals][General]
+ColorScheme=breeze dark
+
+[kdeglobals][Icons]
+Theme=breeze
+
+[plasmarc][Theme]
+name=default
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kwinrc][WindowSwitcher]
+LayoutName=kosmos
+
+[kwinrc][DesktopSwitcher]
+LayoutName=kosmos
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze

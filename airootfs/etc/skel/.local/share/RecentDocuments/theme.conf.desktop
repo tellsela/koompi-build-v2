@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=theme.conf
+Type=Link
+URL[$e]=file:///usr/share/sddm/themes/breeze/theme.conf
+X-KDE-LastOpenedWith=code-oss

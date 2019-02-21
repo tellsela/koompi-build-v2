@@ -1,0 +1,39 @@
+[
+    {
+        "enabled": false,
+        "id": "cd6c6e8e9a03361d0f50bf17a63e10f2",
+        "metadata": {
+            "fullname": "xrandr-LC133LF2L03",
+            "name": "eDP-1"
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "80e98bcb73b281a04953ee401f036a4a",
+        "metadata": {
+            "fullname": "xrandr-ASUS VZ279HE-H6LMTJ027591",
+            "name": "DP-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

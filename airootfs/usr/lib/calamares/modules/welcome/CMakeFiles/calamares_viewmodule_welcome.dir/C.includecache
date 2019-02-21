@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dell/projects/calamares/src/modules/welcome/checker/partman_devices.c
+partman_devices.h
+/home/dell/projects/calamares/src/modules/welcome/checker/partman_devices.h
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/ioctl.h
+-
+unistd.h
+-
+string.h
+-
+sys/cdio.h
+-
+errno.h
+-
+parted/parted.h
+-
+
+/home/dell/projects/calamares/src/modules/welcome/checker/partman_devices.h
+

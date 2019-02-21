@@ -1,0 +1,159 @@
+startkde: Starting up...
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 589, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 592 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 597 result = 0
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/lib/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/kf5/kconf_update'
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/filepicker.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2019-02-20T05:07:01 Checking update-file '/usr/share/kconf_update/kwin.upd' for new updates
+kdeinit5: PID 617 terminated.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/koompi/.gtkrc:/home/koompi/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/koompi/.gtkrc-2.0:/home/koompi/.config/gtkrc-2.0' from launcher.
+kdeinit5: PID 597 terminated.
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/kosmos:@/tmp/.ICE-unix/632,unix/kosmos:/tmp/.ICE-unix/632' from launcher.
+kdeinit5: Got EXEC_NEW 'plank' from launcher.
+kdeinit5: preparing to launch 'libkdeinit5_plank'
+Could not open plank using a library: Cannot load library libkdeinit5_plank: (libkdeinit5_plank: cannot open shared object file: No such file or directory)
+kdeinit5: Got EXEC_NEW '/usr/lib/firefox/firefox' from launcher.
+kdeinit5: preparing to launch '/usr/lib/firefox/firefox'
+kdeinit5: Got EXEC_NEW 'dolphin' from launcher.
+kdeinit5: preparing to launch 'libkdeinit5_dolphin'
+
+(plank:663): Gtk-WARNING **: 05:07:03.438: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(plank:663): Gtk-WARNING **: 05:07:03.438: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(plank:663): Gtk-WARNING **: 05:07:03.439: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(plank:663): Gtk-WARNING **: 05:07:03.439: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+[93m[WARN 05:07:03.527975][0m [Preferences:192] '/usr/share/plank/themes/Transparent/dock.theme' is read-only!
+[93m[WARN 05:07:03.529104][0m [Preferences:382] Missing key 'OuterStrokeColor' for group 'PlankTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529161][0m [Preferences:382] Missing key 'FillStartColor' for group 'PlankTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529211][0m [Preferences:382] Missing key 'FillEndColor' for group 'PlankTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529260][0m [Preferences:382] Missing key 'InnerStrokeColor' for group 'PlankTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529311][0m [Preferences:382] Missing key 'HorizPadding' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529388][0m [Preferences:382] Missing key 'ItemPadding' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529439][0m [Preferences:382] Missing key 'IndicatorSize' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529488][0m [Preferences:382] Missing key 'IconShadowSize' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529638][0m [Preferences:382] Missing key 'UrgentBounceHeight' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529689][0m [Preferences:382] Missing key 'LaunchBounceHeight' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529738][0m [Preferences:382] Missing key 'FadeOpacity' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529788][0m [Preferences:382] Missing key 'ClickTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529852][0m [Preferences:382] Missing key 'UrgentBounceTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529901][0m [Preferences:382] Missing key 'LaunchBounceTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.529953][0m [Preferences:382] Missing key 'ActiveTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530002][0m [Preferences:382] Missing key 'SlideTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530052][0m [Preferences:382] Missing key 'FadeTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530103][0m [Preferences:382] Missing key 'HideTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530368][0m [Preferences:382] Missing key 'GlowSize' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530418][0m [Preferences:382] Missing key 'GlowTime' for group 'PlankDockTheme' in preferences file '/usr/share/plank/themes/Transparent/dock.theme' - using default value
+[93m[WARN 05:07:03.530469][0m [Preferences:382] Missing key 'GlowPulseTime' for group 'PlaOpenGL vendor string:                   Intel Open Source Technology Center
+OpenGL renderer string:                 Mesa DRI Intel(R) UHD Graphics 600 (Geminilake 2x6) 
+OpenGL version string:                  3.0 Mesa 18.3.3
+OpenGL shading language version string: 1.30
+Driver:                                 Intel
+GPU class:                              Unknown
+OpenGL version:                         3.0
+GLSL version:                           1.30
+Mesa version:                           18.3.3
+X server version:                       1.20.3
+Linux kernel version:                   4.20.10
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 665, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+kdeinit5: PID 665 terminated.
+kdeinit5: PID 800 terminated.
+kdeinit5: PID 805 terminated.
+kdeinit5: PID 804 terminated.
+kdeinit5: PID 807 terminated.
+kdeinit5: PID 806 terminated.
+kdeinit5: PID 799 terminated.
+kdeinit5: PID 808 terminated.
+kdeinit5: PID 707 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: PID 918 terminated.
+kdeinit5: PID 920 terminated.
+kdeinit5: PID 795 terminated.
+kdeinit5: PID 802 terminated.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
