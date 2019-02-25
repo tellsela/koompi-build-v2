@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Remove Installer
+GenericName=Remove Installer
+Exec=/usr/bin/removeCalamares.sh
+Comment=Auto Remove 
+Icon=calamares
+Terminal=false
+Categories=Qt;System;
+X-AppStream-Ignore=true
+X-Desktop-File-Install-Version=0.24
+

@@ -1,4 +1,0 @@
-[2019-02-20 04:07:16.642] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2019-02-20 04:11:06.634] [main] [error] [uncaught exception in main]: Error: read ECONNRESET
-[2019-02-20 04:11:06.634] [main] [error] Error: read ECONNRESET
-    at Pipe.onread (net.js:657:25)

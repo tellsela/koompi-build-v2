@@ -25,9 +25,15 @@ PreloadWeight=0
 [Containments][1][General]
 ToolBoxButtonState=bottomleft
 ToolBoxButtonY=1050
+alignment=1
+arrangement=1
+iconSize=2
+showToolbox=false
+sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/koompi/Downloads/Koompi-wall-01.jpg
+FillMode=0
+Image=file:///home/koompi/Downloads/Koompi-Wall-1(1).png
 
 [Containments][2]
 activityId=14f70dbc-837f-4f2f-a02b-4cba1fad0041
@@ -44,6 +50,18 @@ PreloadWeight=0
 [Containments][2][General]
 ToolBoxButtonState=topright
 ToolBoxButtonX=1890
+
+[Containments][28]
+activityId=00000000-0000-0000-0000-000000000000
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][28][Configuration]
+PreloadWeight=26
 
 [Containments][3]
 activityId=
@@ -66,13 +84,6 @@ immutability=1
 plugin=org.kde.plasma.konsoleprofiles
 
 [Containments][3][Applets][22][Configuration]
-PreloadWeight=4
-
-[Containments][3][Applets][23]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][3][Applets][23][Configuration]
 PreloadWeight=0
 
 [Containments][3][Applets][24]
@@ -80,14 +91,53 @@ immutability=1
 plugin=org.kde.kscreen
 
 [Containments][3][Applets][24][Configuration]
-PreloadWeight=20
+PreloadWeight=0
+
+[Containments][3][Applets][25]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][3][Applets][25][Configuration]
+PreloadWeight=0
+
+[Containments][3][Applets][25][Configuration][General]
+length=1485
+
+[Containments][3][Applets][26]
+immutability=1
+plugin=org.kde.plasma.appmenu
+
+[Containments][3][Applets][26][Configuration]
+PreloadWeight=0
+
+[Containments][3][Applets][27]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Containments][3][Applets][27][Configuration]
+PreloadWeight=43
+pressureUnit=5028
+source=
+speedUnit=9002
+temperatureUnit=6001
+updateInterval=30
+visibilityUnit=-1
+weatherServiceProviders=
+
+[Containments][3][Applets][27][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][3][Applets][4]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][3][Applets][4][Configuration]
-PreloadWeight=92
+PreloadWeight=84
+
+[Containments][3][Applets][4][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][3][Applets][4][Configuration][General]
 favoritesPortedToKAstats=true
@@ -110,7 +160,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][3][Applets][7][Configuration]
-PreloadWeight=29
+PreloadWeight=0
 SystrayContainmentId=8
 
 [Containments][3][Applets][9]
@@ -120,6 +170,9 @@ plugin=org.kde.plasma.digitalclock
 [Containments][3][Applets][9][Configuration]
 PreloadWeight=0
 
+[Containments][3][Applets][9][Configuration][Appearance]
+pin=true
+
 [Containments][3][ConfigDialog]
 DialogHeight=84
 DialogWidth=1920
@@ -128,7 +181,7 @@ DialogWidth=1920
 PreloadWeight=0
 
 [Containments][3][General]
-AppletOrder=4;23;5;22;24;7;9;19
+AppletOrder=4;26;25;5;22;24;7;27;9;19
 
 [Containments][8]
 activityId=
@@ -144,7 +197,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][10][Configuration]
-PreloadWeight=14
+PreloadWeight=0
 
 [Containments][8][Applets][10][Configuration][ConfigDialog]
 DialogHeight=540
@@ -204,7 +257,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][18][Configuration]
-PreloadWeight=14
+PreloadWeight=0
+
+[Containments][8][Applets][29]
+immutability=1
+plugin=org.kde.plasma.bluetooth
+
+[Containments][8][Applets][29][Configuration]
+PreloadWeight=28
 
 [Containments][8][Configuration]
 PreloadWeight=0
@@ -218,3 +278,4 @@ immutability=2
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=desktop:/New Folder,0

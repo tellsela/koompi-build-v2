@@ -109,18 +109,19 @@ ForegroundVisited=127,140,141
 ColorScheme=BreezeDark
 Name=Breeze Dark
 XftAntialias=true
-XftHintStyle=hintmedium
+XftHintStyle=
 XftSubPixel=none
 dbfile=/home/koompi/.mozilla/firefox/k8soscms.default/places.sqlite
 shadeSortColumn=true
 widgetStyle=Breeze
 
 [Icons]
-Theme=breeze
+Theme=Papirus
 
 [KDE]
 ColorScheme=Breeze
 LookAndFeelPackage=kosmos
+SingleClick=false
 contrast=4
 widgetStyle=kosmos
 

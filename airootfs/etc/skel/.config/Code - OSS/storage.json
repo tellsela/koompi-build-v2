@@ -5,7 +5,17 @@
             "file:///home/koompi"
         ],
         "files2": [
+            "file:///usr/share/plymouth/themes/details/details.plymouth",
+            "file:///etc/pacman.d/mirrorlist",
             "file:///usr/share/sddm/themes/breeze/theme.conf",
+            "file:///usr/share/sddm/themes/breeze/metadata.desktop",
+            "file:///home/koompi/.config/akregatorrc",
+            "file:///usr/share/wallpapers/Next/metadata.desktop",
+            "file:///usr/share/wallpapers/BytheWater/metadata.desktop",
+            "file:///usr/share/wallpapers/summer_1am/metadata.desktop",
+            "file:///home/koompi/.kde4/share/config/kdeglobals",
+            "file:///home/koompi/Downloads/condres-build-master/condres-kde/build.sh",
+            "file:///home/koompi/Downloads/condres-build-master/condres-kde/work/build.make_pacman_conf_x86_64",
             "file:///usr/share/sddm/themes/breeze/Background.qml",
             "file:///usr/share/doc/HTML/ca/kinfocenter/index.docbook",
             "file:///usr/share/doc/HTML/ca/kinfocenter/index.cache.bz2",
@@ -15,17 +25,17 @@
         ]
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#282c34",
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/koompi/.config/Code - OSS/Backups/1550638108946",
+            "backupPath": "/home/koompi/.config/Code - OSS/Backups/1551065417801",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 24,
-                "width": 1920,
-                "height": 1056
+                "mode": 1,
+                "x": 305,
+                "y": 121,
+                "width": 1024,
+                "height": 768
             }
         }
     }

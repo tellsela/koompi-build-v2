@@ -1,9 +1,9 @@
 [KFileDialog Settings]
-Recent Files[$e]=Koompi-wall-01(1).jpg,file:$HOME/Downloads/Koompi-wall-01.jpg,file:$HOME/Downloads/Koompi-wall-01(1).jpg
+Recent Files[$e]=Koompi-wall-01(1).jpg,file:$HOME/Downloads/Koompi-Wall-1(1).png,file:$HOME/Downloads/Koompi-Wall-1.png,file:$HOME/Downloads/Koompi-Wall-Blur.png,file:///usr/share/wallpapers/Koompi-wall-01.jpg,file:$HOME/Downloads/Koompi-wall-01.jpg,file:$HOME/Downloads/Koompi-wall-01(1).jpg
 Recent URLs[$e]=file:$HOME/Downloads/
 
 [PlasmaRunnerManager]
-LaunchCounts=8 services_about-distro.desktop,1 services_org.kde.kinfocenter.desktop,1 services_org.kde.dolphin.desktop
+LaunchCounts=1 services_org.kde.dolphin.desktop,1 services_org.telegram.desktop.desktop,3 services_systemsettings.desktop,1 services_org.gnome.Evince.desktop,2 services_org.kde.kinfocenter.desktop,1 services_org.gnome.Maps.desktop,1 services_org.gnome.Software.desktop,1 services_kgamma.desktop,8 services_about-distro.desktop,2 services_code-oss.desktop
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 3][Horizontal1920]
@@ -12,6 +12,7 @@ thickness=24
 [ScreenConnectors]
 0=DP-1
 1=eDP-1
+2=:0.0
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

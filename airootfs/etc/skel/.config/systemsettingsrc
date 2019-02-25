@@ -2,18 +2,22 @@
 Height 1080=494
 Width 1920=700
 
+[KFileDialog Settings]
+Recent Files[$e]=remove,file:$HOME/tesh.sh
+Recent URLs[$e]=file:///usr/share/wallpapers/
+
 [KPropertiesDialog]
 Height 1080=456
-Width 1920=422
+Width 1920=418
 
 [MainWindow]
-Height 1080=700
+Height 1080=1035
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1024
+Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Open-with settings]
 CompletionMode=1
-History=plank
+History=red,plank

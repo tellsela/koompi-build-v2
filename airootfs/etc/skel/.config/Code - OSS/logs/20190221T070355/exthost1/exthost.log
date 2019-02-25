@@ -1,0 +1,16 @@
+[2019-02-21 07:03:59.388] [exthost] [info] extension host started
+[2019-02-21 07:03:59.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.434] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-21 07:03:59.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.441] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-21 07:03:59.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.476] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-21 07:03:59.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.702] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-21 07:03:59.712] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.712] [exthost] [info] ExtensionService#loadCommonJSModule /home/koompi/.vscode-oss/extensions/pkief.material-icon-theme-3.6.3/out/src/extension
+[2019-02-21 07:03:59.772] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:03:59.772] [exthost] [info] ExtensionService#loadCommonJSModule /home/koompi/.vscode-oss/extensions/ritwickdey.liveserver-5.5.1/out/src/extension
+[2019-02-21 07:04:00.240] [exthost] [info] ExtensionService#_doActivateExtension yhpnoraa.beauty {"startup":true,"activationEvent":"*"}
+[2019-02-21 07:04:00.240] [exthost] [info] ExtensionService#loadCommonJSModule /home/koompi/.vscode-oss/extensions/yhpnoraa.beauty-0.0.2/out/src/extension
+[2019-02-21 07:04:00.330] [exthost] [info] eager extensions activated

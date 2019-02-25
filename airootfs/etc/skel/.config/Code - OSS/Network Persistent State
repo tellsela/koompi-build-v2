@@ -1,1 +1,1 @@
-{"net":{"http_server_properties":{"servers":[{"https://msjsdiag.gallerycdn.vsassets.io":{"supports_spdy":true}},{"https://marketplace.visualstudio.com":{"supports_spdy":true}}],"version":5}}}
+{"net":{"http_server_properties":{"servers":[{"https://danields761.gallerycdn.vsassets.io":{"supports_spdy":true}},{"https://msjsdiag.gallerycdn.vsassets.io":{"supports_spdy":true}},{"https://marketplace.visualstudio.com":{"supports_spdy":true}},{"https://ms-vsliveshare.gallerycdn.vsassets.io":{"supports_spdy":true}}],"version":5}}}

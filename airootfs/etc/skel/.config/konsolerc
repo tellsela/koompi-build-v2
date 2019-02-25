@@ -5,5 +5,10 @@ DefaultProfile=Profile 1.profile
 Favorites=
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAHCAAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 1080=713
+State=AAAA/wAAAAD9AAAAAAAABJkAAAKrAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
+Width 1920=1177
+
+[TabBar]
+TabBarPosition=Top

@@ -2,6 +2,8 @@ kcminputrc Mouse cursorTheme 'breeze_cursors'
 /home/koompi/.config/kcminputrc
 !/etc/xdg/kcminputrc
 !/home/koompi/.local/share/config/kcminputrc
+!/home/koompi/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
 !/usr/local/share/config/kcminputrc
 !/usr/share/config/kcminputrc
 *
@@ -9,6 +11,8 @@ kcminputrc Mouse cursorSize ''
 /home/koompi/.config/kcminputrc
 !/etc/xdg/kcminputrc
 !/home/koompi/.local/share/config/kcminputrc
+!/home/koompi/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
 !/usr/local/share/config/kcminputrc
 !/usr/share/config/kcminputrc
 *
@@ -16,6 +20,8 @@ ksplashrc KSplash Theme Breeze
 /home/koompi/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/home/koompi/.local/share/config/ksplashrc
+!/home/koompi/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
 !/usr/local/share/config/ksplashrc
 !/usr/share/config/ksplashrc
 *
@@ -23,6 +29,8 @@ ksplashrc KSplash Engine KSplashQML
 /home/koompi/.config/ksplashrc
 !/etc/xdg/ksplashrc
 !/home/koompi/.local/share/config/ksplashrc
+!/home/koompi/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
 !/usr/local/share/config/ksplashrc
 !/usr/share/config/ksplashrc
 *
@@ -30,6 +38,8 @@ kdeglobals KScreen ScaleFactor ''
 /home/koompi/.config/kdeglobals
 !/etc/xdg/kdeglobals
 !/home/koompi/.local/share/config/kdeglobals
+!/home/koompi/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
 !/usr/local/share/config/kdeglobals
 !/usr/share/config/kdeglobals
 *
@@ -37,6 +47,8 @@ kdeglobals KScreen ScreenScaleFactors ''
 /home/koompi/.config/kdeglobals
 !/etc/xdg/kdeglobals
 !/home/koompi/.local/share/config/kdeglobals
+!/home/koompi/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
 !/usr/local/share/config/kdeglobals
 !/usr/share/config/kdeglobals
 *
@@ -44,6 +56,8 @@ kcmfonts General forceFontDPI 0
 !/home/koompi/.config/kcmfonts
 !/etc/xdg/kcmfonts
 !/home/koompi/.local/share/config/kcmfonts
+!/home/koompi/.local/share/flatpak/exports/share/config/kcmfonts
+!/var/lib/flatpak/exports/share/config/kcmfonts
 !/usr/local/share/config/kcmfonts
 !/usr/share/config/kcmfonts
 *

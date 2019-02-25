@@ -1,5 +1,11 @@
+[OSD]
+Enabled=true
+
+[PlasmaToolTips]
+Delay=0.7
+
 [Theme]
 name=default
 
 [Wallpapers]
-usersWallpapers=/home/koompi/Downloads/Koompi-wall-01.jpg
+usersWallpapers=/home/koompi/Downloads/Koompi-Wall-1(1).png,/home/koompi/Downloads/Koompi-Wall-1.png,/home/koompi/Downloads/Koompi-Wall-Blur.png

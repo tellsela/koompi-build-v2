@@ -1,6 +1,25 @@
 #xorg
 xorg
 
+#app 
+
+bluez-utils
+bluez
+cups
+hplip
+darktable
+evince
+gnome-calculator 
+deepin-calendar
+deepin-image-viewer
+flatpak
+clipgrab
+gimp 
+gnome-software 
+plank
+klavaro
+
+
 #login
 sddm
 

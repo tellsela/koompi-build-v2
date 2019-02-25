@@ -30,6 +30,8 @@ pacman-key --init
 pacman-key --populate archlinux
 mv /mirrorlist /etc/pacman.d/
 pacman -Sy
+pacman -U --noconfirm /packages/jade-application-kit-git-r200.f94ba06-1-any.pkg.tar.xz
+pacman -U --noconfirm /packages/ms-office-online-18.04.4-1-any.pkg.tar.xz
 pacman -U --noconfirm /packages/plymouth-0.9.4-1-x86_64.pkg.tar.xz
 pacman -U --noconfirm /packages/aic94xx-firmware-30-9-any.pkg.tar.xz
 pacman -U --noconfirm /packages/pythonqt-3.2-6-x86_64.pkg.tar.xz
@@ -42,6 +44,8 @@ plymouth-set-default-theme -R glow
 mkinitcpio -p linux
 grub-mkconfig -o /boot/grub/grub.cfg
 
-
-systemctl enable pacman-init.service choose-mirror.service sddm-plymouth.service NetworkManager.service
+chmod 755 /etc/xdg/autostart/removeCode.desktop
+chmod 755 /usr/bin/removeCode.sh
+chmod 755 /usr/applications/removeCode.desktop
+systemctl enable pacman-init.service choose-mirror.service  bluetooth.service sddm-plymouth.service NetworkManager.service
 systemctl set-default graphical.target
